@@ -1,0 +1,1 @@
+elemClass[0].classList.remove("text-success")
