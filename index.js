@@ -1,1 +1,1 @@
-elemClass[0].classList.remove("text-success")
+elemClass[0].classList.add("text-success")
